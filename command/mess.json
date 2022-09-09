@@ -1,13 +1,13 @@
 {
-    "wait": "_Sedang Di Proses_",
+    "wait": "Sabar lagi Proses, oke",
     "error": {
-        "Iv": "Link yang kamu berikan tidak valid",
-        "api": "Maaf terjadi kesalahan"
+        "Iv": "Kasi link yang valid lah, lu yang bener aja bang",
+        "api": "Ada Yang Salah Cuy, Error paling, Coba Aja Yang lain"
     },
-    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
-    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
-    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
-    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "OnlyGrup": "Perintah ini cuma bisa dipake di grup doang bang",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message, chat prib ae",
+    "GrupAdmin": "command ini cuman bisa di pake buat admin doang, lu gsh sok"an dah",
+    "BotAdmin": "Bot Pengen Jadi admin:v",
+    "OnlyOwner": "command ini cuman bisa di pake oleh owner bot doang bang",
+    "OnlyPrem": "Command ini khusus member premium, btw cptan beli prem ke owner yak wkwk"
 }
